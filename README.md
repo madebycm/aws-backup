@@ -11,7 +11,7 @@ aws_secret_access_key = XXX
 ```
 
 
-`~/.aws/config´
+`~/.aws/config`
 
 ````
 [default]
