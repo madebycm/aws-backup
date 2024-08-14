@@ -1,0 +1,2 @@
+# every 3rd hour
+0 */3 * * * /bin/bash /backups/backup-aws.sh
