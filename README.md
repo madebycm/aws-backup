@@ -13,7 +13,7 @@ aws_secret_access_key = XXX
 
 `~/.aws/config`
 
-````
+```
 [default]
 region = eu-west-3
 ```
